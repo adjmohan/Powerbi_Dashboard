@@ -12,7 +12,8 @@ The dashboard uses the following datasets:
 
 ## 📸 Dashboard Preview
 
-<img width="1612" height="876" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/30e67f33-bb8e-487e-99e3-be53827ef765" />
+<img width="1612" height="876" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/57180e01-b1db-46dc-b529-676f8c033912" />
+
 
 
 ## 📈 Key Performance Indicators (KPIs)
