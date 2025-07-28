@@ -99,9 +99,9 @@ The Performance Tracker dashboard monitors operational KPIs such as delivery suc
 
 3.Use filters and slicers (category, city, date, etc.) to explore specific trends.
 
-Hover over charts for deep insights and drill-downs.
+4.Hover over charts for deep insights and drill-downs.
 
-Export visuals or share via Power BI Service as needed.
+5.Export visuals or share via Power BI Service as needed.
 
 # 👨‍💼 Author
 
